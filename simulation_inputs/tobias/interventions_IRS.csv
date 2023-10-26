@@ -1,0 +1,2 @@
+node_id,phase,year,start_day,coverage,kill_effect,kill_duration,kill_decay,repel_effect,repel_duration,repel_decay,insecticide_name
+1,pickup,2012,731,0.17,0.1,30,60,0.2,60,30,example_insecticide

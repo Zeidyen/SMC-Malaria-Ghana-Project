@@ -1,0 +1,24 @@
+{
+  "Metadata": {
+    "Tool": "weather-files",
+    "Author": "Institute for Disease Modeling",
+    "WeatherSchemaVersion": "2.0",
+    "IdReference": "UpperEast_Region",
+    "WeatherCellCount": 1,
+    "UpdateResolution": "CLIMATE_UPDATE_DAY",
+    "OriginalDataYears": "2018-2019",
+    "StartDayOfYear": "January 1",
+    "DataProvenance": "From ERA5 hourly files (downloaded with C3S, March 2019) and aggregated by day.",
+    "Resolution": "15arcmin",
+    "UpperLatitude": 10.78556,
+    "LeftLongitude": -0.851392,
+    "BottomLatitude": 10.78556,
+    "RightLongitude": -0.851392,
+    "OffsetEntryCount": 1,
+    "NumberDTKNodes": 1,
+    "NodeCount": 1,
+    "DatavalueCount": 730,
+    "DatavaluePerCell": 730
+  },
+  "NodeOffsets": "0000000100000000"
+}

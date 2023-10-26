@@ -1,0 +1,24 @@
+{
+  "Metadata": {
+    "Tool": "weather-files",
+    "Author": "Institute for Disease Modeling",
+    "WeatherSchemaVersion": "2.0",
+    "IdReference": "sapone",
+    "WeatherCellCount": 1,
+    "UpdateResolution": "CLIMATE_UPDATE_DAY",
+    "OriginalDataYears": "2018-2018",
+    "StartDayOfYear": "January 1",
+    "DataProvenance": "From ERA5 hourly files (downloaded with C3S, March 2019) and aggregated by day.",
+    "Resolution": "15arcmin",
+    "UpperLatitude": 12.0896,
+    "LeftLongitude": -1.522257,
+    "BottomLatitude": 12.0896,
+    "RightLongitude": -1.522257,
+    "OffsetEntryCount": 1,
+    "NumberDTKNodes": 1,
+    "NodeCount": 1,
+    "DatavalueCount": 365,
+    "DatavaluePerCell": 365
+  },
+  "NodeOffsets": "0000000100000000"
+}
